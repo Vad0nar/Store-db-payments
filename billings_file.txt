@@ -1,0 +1,15 @@
+1, 7, 'Germany', 'Hamburg', 'Hamburg', 73629
+2, 2, 'Ukraine', 'Kyiv', 'Kyiv Oblast', 79056
+3, 4, 'Germany', 'Hamburg', 'Hamburg', 73671
+4, 3, 'Kazakhstan', 'Anupa', 'Anupa', 26379
+5, 5, 'Ukraine', 'Odesa', 'Odesa Oblast', 79256
+6, 6, 'India', 'Delhi', 'Delhi', 400001
+7, 1, 'Canada', 'Toronto', 'Toronto',00100
+8, 8, 'Australia', 'Sydney', 'New South Wales', 10001
+9, 9, 'Poland', 'Krakow', 'Lesser Poland', E16AN
+10, 10, 'Spain', 'Barcelona', 'Catalonia', 24123
+11, 11, 'Canada', 'Rome', 'Rome', 00111
+12, 14, 'Australia','Sydney', 'New South Wales', 10002
+13, 15, 'Poland', 'Krakow', 'Masovian Voivodeship', 00100
+14, 12, 'Japan', 'Osaka', 'Kansai Region', 5300001
+15, 13, 'Egypt', 'Alexandria', 'Alexandria Governorate', 28001

@@ -1,0 +1,75 @@
+1,1,1,20,500,'PLN',1.63,'Bread',250,'https://www.jabko.pa/image/bread.jpg','The promotion is valid until 15.10.2024',300
+1,2,1,15,300,'PLN',2.08,'Milk',150,'https://www.jabko.pa/image/milk.jpg','Fresh product',250
+1,3,1,10,1000,'PLN',8.33,'Flour',75,'https://www.jabko.pa/image/flour.jpg','Suitable for baking',400
+1,4,1,30,200,'PLN',1.03,'Butter',180,'https://www.jabko.pa/image/butter.jpg','Best before 20.10.2024',320
+1,5,1,5,50,'PLN',0.65,'Eggs',500,'https://www.jabko.pa/image/eggs.jpg','Pack of 10',290
+2,6,1,25,100,'JPY',131.48,'Cheese',100,'https://www.qawai.com/image/cheese.jpg','Aged 3 months',350
+2,7,1,18,700,'JPY',222.22,'Chicken',60,'https://www.qawai.com/image/chicken.jpg','Organic meat',280
+2,8,1,12,900,'JPY',166.67,'Rice',40,'https://www.qawai.com/image/rice.jpg','Long grain variety',270
+2,9,1,8,400,'JPY',109.26,'Apples',220,'https://www.qawai.com/image/apples.jpg','Golden variety',310
+2,10,1,7,250,'JPY',51.85,'Tomatoes',100,'https://www.qawai.com/image/tomatoes.jpg','Greenhouse grown',260
+3,11,1,15,100,'KZT',198.41,'Notebook',300,'https://www.cherryshop.kz/image/notebook.jpg','80 sheets, A5 size',350
+3,12,1,20,50,'KZT',126.98,'Pen',500,'https://www.cherryshop.kz/image/pen.jpg','Blue ink, ballpoint',320
+3,13,1,25,500,'KZT',571.43,'Backpack',100,'https://www.cherryshop.kz/image/backpack.jpg','Waterproof material',400
+3,14,1,5,10,'KZT',39.68,'Eraser',800,'https://www.cherryshop.kz/image/eraser.jpg','Soft rubber',290
+3,15,1,3,5,'KZT',59.52,'Pencil',600,'https://www.cherryshop.kz/image/pencil.jpg','HB graphite',300
+4,16,1,8,30,'UAH',15.20,'Ruler',200,'https://www.aurrora.com.ua/image/ruler.jpg','30 cm plastic ruler',330
+4,17,1,12,1000,'UAH',99.99,'Office Chair',50,'https://www.aurrora.com.ua/image/officechair.jpg','Ergonomic design',450
+4,18,1,10,200,'UAH',45.00,'Stapler',150,'https://www.aurrora.com.ua/image/stapler.jpg','Includes 1000 staples',380
+4,19,1,6,15,'UAH',7.00,'Glue Stick',400,'https://www.aurrora.com.ua/image/gluestick.jpg','Non-toxic, 20g',310
+4,20,1,4,300,'UAH',120.50,'Whiteboard',30,'https://www.aurrora.com.ua/image/whiteboard.jpg','Magnetic surface, 90x60cm',470
+5,21,1,10,500,'EUR',0.76,'Apples',400,'https://www.senyora_shop.com/image/apples.jpg','Fresh red apples',360
+5,22,1,20,1000,'EUR',1.25,'Oranges',350,'https://www.senyora_shop.com/image/oranges.jpg','Imported from Spain',370
+5,23,1,5,500,'EUR',0.30,'Bananas',600,'https://www.senyora_shop.com/image/bananas.jpg','Rich in potassium',320
+5,24,1,15,200,'EUR',0.65,'Cherries',150,'https://www.senyora_shop.com/image/cherries.jpg','Organic cherries',410
+5,25,1,2,50,'EUR',0.21,'Lettuce',200,'https://www.senyora_shop.com/image/lettuce.jpg','Crispy and fresh',300
+6,26,1,4,100,'JPY',15.30,'Tomatoes',500,'https://www.tokyogoods.jp/image/tomatoes.jpg','Locally grown',340
+6,27,1,6,250,'JPY',22.40,'Carrots',300,'https://www.tokyogoods.jp/image/carrots.jpg','Rich in vitamin A',350
+6,28,1,8,200,'JPY',28.70,'Potatoes',450,'https://www.tokyogoods.jp/image/potatoes.jpg','Good for baking',320
+6,29,1,3,100,'JPY',9.90,'Onions',700,'https://www.tokyogoods.jp/image/onions.jpg','Perfect for cooking',310
+6,30,1,12,300,'JPY',42.00,'Grapes',250,'https://www.tokyogoods.jp/image/grapes.jpg','Seedless green grapes',380
+7,31,1,20,500,'AUD',1.02,'Bread',250,'https://www.koalashop.au/image/bread.jpg','The promotion is valid until 15.10.2024',300
+7,32,1,15,300,'AUD',1.20,'Milk',150,'https://www.koalashop.au/image/milk.jpg','Fresh product',250
+7,33,1,10,1000,'AUD',4.40,'Flour',75,'https://www.koalashop.au/image/flour.jpg','Suitable for baking',400
+7,34,1,30,200,'AUD',0.69,'Butter',180,'https://www.koalashop.au/image/butter.jpg','Best before 20.10.2024',320
+7,35,1,5,50,'AUD',0.39,'Eggs',500,'https://www.koalashop.au/image/eggs.jpg','Pack of 10',290
+8,36,1,25,100,'CAD',1.42,'Cheese',100,'https://www.maplemart.ca/image/cheese.jpg','Aged 3 months',350
+8,37,1,18,700,'CAD',2.50,'Chicken',60,'https://www.maplemart.ca/image/chicken.jpg','Organic meat',280
+8,38,1,12,900,'CAD',1.83,'Rice',40,'https://www.maplemart.ca/image/rice.jpg','Long grain variety',270
+8,39,1,8,400,'CAD',1.18,'Apples',220,'https://www.maplemart.ca/image/apples.jpg','Golden variety',310
+8,40,1,7,250,'CAD',0.60,'Tomatoes',100,'https://www.maplemart.ca/image/tomatoes.jpg','Greenhouse grown',260
+9,41,1,25,700,'EUR',1.40,'Pineapple',120,'https://www.barcelonabazaar.es/image/pineapple.jpg','Sweet and juicy',300
+9,42,1,15,400,'EUR',0.30,'Lemon',250,'https://www.barcelonabazaar.es/image/lemon.jpg','Perfect for lemonade',320
+9,43,1,10,300,'EUR',0.21,'Cucumber',180,'https://www.barcelonabazaar.es/image/cucumber.jpg','Fresh and crunchy',290
+9,44,1,18,800,'EUR',1.00,'Peach',90,'https://www.barcelonabazaar.es/image/peach.jpg','Imported from Italy',280
+9,45,1,20,1200,'EUR',1.88,'Mango',60,'https://www.barcelonabazaar.es/image/mango.jpg','Tropical flavor',350
+10,46,1,5,50,'EUR',0.05,'Garlic',500,'https://www.bavarianstore.de/image/garlic.jpg','Strong aroma',310
+10,47,1,8,100,'EUR',0.17,'Bell Pepper',400,'https://www.bavarianstore.de/image/pepper.jpg','Red variety',320
+10,48,1,4,200,'EUR',0.09,'Beetroot',300,'https://www.bavarianstore.de/image/beetroot.jpg','Rich in antioxidants',290
+10,49,1,12,200,'EUR',0.20,'Zucchini',250,'https://www.bavarianstore.de/image/zucchini.jpg','Perfect for grilling',380
+10,50,1,10,1200,'EUR',1.50,'Blueberry',100,'https://www.bavarianstore.de/image/blueberry.jpg','Freshly picked',320
+11,51,1,10,500,'BRL',0.91,'Mint',300,'https://www.brazilmarket.com/image/mint.jpg','Freshly harvested',360
+11,52,1,15,300,'BRL',1.31,'Salad',150,'https://www.brazilmarket.com/image/salad.jpg','Rich in nutrients',370
+11,53,1,12,200,'BRL',0.49,'Cabbage',100,'https://www.brazilmarket.com/image/cabbage.jpg','Crunchy and fresh',320
+11,54,1,7,50,'BRL',0.31,'Parsley',200,'https://www.brazilmarket.com/image/parsley.jpg','For seasoning',310
+11,55,1,9,250,'BRL',1.25,'Carrot',450,'https://www.brazilmarket.com/image/carrot.jpg','Sweet and crunchy',380
+12,56,1,60,400,'MXN',30.00,'Pumpkin',300,'https://www.mexicanmarket.com/image/pumpkin.jpg','Ideal for soup',350
+12,57,1,99,300,'MXN',49.99,'Pomegranate',400,'https://www.mexicanmarket.com/image/pomegranate.jpg','Rich in antioxidants',370
+12,58,1,25,100,'MXN',12.50,'Cucumber',500,'https://www.mexicanmarket.com/image/cucumber.jpg','Freshly picked',320
+12,59,1,3,50,'MXN',1.50,'Onion',600,'https://www.mexicanmarket.com/image/onion.jpg','For salads',310
+12,60,1,7,250,'MXN',3.75,'Avocado',100,'https://www.mexicanmarket.com/image/avocado.jpg','Rich in healthy fats',380
+13,61,1,35,100,'CNY',7.12,'Cheese',100,'https://www.chinagrocery.com/image/cheese.jpg','Delicious cheese',350
+13,62,1,60,500,'CNY',12.00,'Chicken',60,'https://www.chinagrocery.com/image/chicken.jpg','Fresh and organic',280
+13,63,1,45,900,'CNY',9.00,'Rice',40,'https://www.chinagrocery.com/image/rice.jpg','Healthy whole grain',270
+13,64,1,29,400,'CNY',5.90,'Apples',220,'https://www.chinagrocery.com/image/apples.jpg','Sweet and crunchy',310
+13,65,1,14,250,'CNY',2.80,'Tomatoes',100,'https://www.chinagrocery.com/image/tomatoes.jpg','Fresh and ripe',260
+14,66,1,9,50,'KRW',359.60,'Cilantro',300,'https://www.koreanmarket.com/image/cilantro.jpg','Fresh and fragrant',350
+14,67,1,25,100,'KRW',1180.00,'Kale',150,'https://www.koreanmarket.com/image/kale.jpg','Superfood',280
+14,68,1,15,200,'KRW',600.00,'Garlic',100,'https://www.koreanmarket.com/image/garlic.jpg','Strong flavor',270
+14,69,1,6,15,'KRW',240.00,'Ginger',800,'https://www.koreanmarket.com/image/ginger.jpg','Spicy and aromatic',290
+14,70,1,5,50,'KRW',200.00,'Chili',600,'https://www.koreanmarket.com/image/chili.jpg','Hot and flavorful',300
+15,71,1,12,50,'INR',31.25,'Papaya',300,'https://www.indiamarket.com/image/papaya.jpg','Sweet and ripe',350
+15,72,1,45,100,'INR',112.50,'Guava',150,'https://www.indiamarket.com/image/guava.jpg','Tropical delight',370
+15,73,1,7,80,'INR',19.50,'Coconut',100,'https://www.indiamarket.com/image/coconut.jpg','Delicious and refreshing',320
+15,74,1,5,50,'INR',12.50,'Chili',600,'https://www.indiamarket.com/image/chili.jpg','Spicy and hot',260
+15,75,1,10,250,'INR',25.00,'Tamarind',100,'https://www.indiamarket.com/image/tamarind.jpg','Unique flavor',380
